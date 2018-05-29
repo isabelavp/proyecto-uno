@@ -1,0 +1,37 @@
+#fondo {
+	font-size: 25px;
+	color blue;
+	background: orange;
+
+}
+
+#fondo:hover {
+	font-size: 35px;
+	color: orange;
+	background: black;
+}
+
+#but{
+	width: 100px;
+	height: 45px;
+	color: orange;
+	background: black;
+	font-size: 25px;
+}
+#but:hover{
+	width: 90px;
+	height: 40px;
+	color: green;
+	background: red;
+	font-size: 20px;
+}
+
+
+#demo{
+	background: grey;
+	color: black;
+	font-size: 25px;
+
+}
+
+
